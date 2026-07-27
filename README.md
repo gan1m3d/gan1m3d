@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=220&section=header&text=Andrey%20Ustyuzhanin&fontSize=42&fontColor=00FF9C&fontAlignY=35&desc=Junior%20Penetration%20Tester%20%7C%20Security%20Researcher&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=220&section=header&text=Andrey%20Ust&fontSize=42&fontColor=00FF9C&fontAlignY=35&desc=Junior%20Penetration%20Tester%20%7C%20Security%20Researcher&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=650&lines=whoami+%3D%3E+aspiring+penetration+tester;60%2B+HTB+machines+pwned+%7C+Pro+Hacker+rank;OWASP+Top+10+%7C+AD+attack+paths+%7C+privesc;recon+first%2C+exploit+second%2C+document+always." alt="Typing SVG" />
 
@@ -85,20 +85,7 @@
 
 </div>
 
-https://www.hackthebox.com/badge/image/1421056
-
 <br/>
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gan1m3d&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=gan1m3d&theme=chartreuse-dark&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gan1m3d&layout=compact&theme=chartreuse-dark&hide_border=true" />
-
-</div>
 
 <br/>
 
